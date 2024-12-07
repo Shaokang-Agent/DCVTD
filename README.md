@@ -21,7 +21,7 @@ Please follow the instruction of 'README.md' file in different environments to i
                   Yang Gao},
   title        = {Decentralized Counterfactual Value with Threat Detection for Multi-Agent
                   Reinforcement Learning in mixed cooperative and competitive environments},
-  journal      = {Expert Syst. Appl.},
+  journal      = {Expert Systems with Applications},
   volume       = {257},
   pages        = {125116},
   year         = {2024},
