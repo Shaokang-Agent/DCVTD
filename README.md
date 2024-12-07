@@ -10,3 +10,22 @@ This is the code for the paper "Decentralized Counterfactual Value with Threat D
 
 ## Quick start
 Please follow the instruction of 'README.md' file in different environments to install Python requirements.
+
+## Cite our paper
+```
+@article{DCVTD,
+  author       = {Shaokang Dong and
+                  Chao Li and
+                  Shangdong Yang and
+                  Wenbin Li and
+                  Yang Gao},
+  title        = {Decentralized Counterfactual Value with Threat Detection for Multi-Agent
+                  Reinforcement Learning in mixed cooperative and competitive environments},
+  journal      = {Expert Syst. Appl.},
+  volume       = {257},
+  pages        = {125116},
+  year         = {2024},
+  url          = {https://doi.org/10.1016/j.eswa.2024.125116},
+  doi          = {10.1016/J.ESWA.2024.125116}
+}
+```
