@@ -1,4 +1,4 @@
-# Implementation of the paper "Decentralized Counterfactual Value with Threat Detection in Multi-Agent Mixed Cooperative and Competitive Environments"
+# Implementation of the paper "Decentralized Counterfactual Value with Threat Detection for Multi-Agent Reinforcement Learning in Mixed Cooperative and Competitive Environments"
 
 This is the code for the paper "Decentralized Counterfactual Value with Threat Detection in Multi-Agent Mixed Cooperative and Competitive Environments".
 
